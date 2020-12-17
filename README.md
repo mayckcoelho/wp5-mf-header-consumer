@@ -1,3 +1,3 @@
-# wp5-mf-react-typescript
+# wp5-mf-consumer-host
 
-Este repositório contém uma configuração básica de uma aplicação React, com Typescript utilizando Webpack5 e ModuleFederation
+Este repositório contém um configuração básica de um consumer de um componente React com ModuleFederation
